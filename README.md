@@ -1,4 +1,4 @@
-# cambly-interview-programming-exercise
+# interview-programming-exercise
 Steps to run:
 - Clone this project onto your computer
 - run the file called ```uniqueWordsTest.java```.
